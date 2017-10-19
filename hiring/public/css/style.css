@@ -1,0 +1,8 @@
+.position{
+  margin-top: 1.5em;
+}
+
+.center-div{
+  float: none !important;
+  margin: 0 auto !important;
+}
